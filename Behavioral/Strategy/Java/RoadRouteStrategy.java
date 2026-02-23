@@ -1,4 +1,4 @@
-package StrategyCode;
+package Strategy;
 
 public class RoadRouteStrategy implements RouteStrategy{
     @Override

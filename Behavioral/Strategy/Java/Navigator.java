@@ -1,4 +1,4 @@
-package StrategyCode;
+package Strategy;
 
 public class Navigator {
     private RouteStrategy routeStrategy;
