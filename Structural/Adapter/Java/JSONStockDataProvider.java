@@ -1,4 +1,4 @@
-package AdapterCode;
+package Structural.Adapter.Java;
 
 public class JSONStockDataProvider implements StockDataProvider {
     XMLStockDataProvider xmlStockDataProvider;
