@@ -1,4 +1,4 @@
-package StateCode;
+package State;
 
 public class HasCardState extends ATMState {
     private final ATM atm;

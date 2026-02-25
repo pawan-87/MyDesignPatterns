@@ -1,4 +1,4 @@
-package StateCode;
+package State;
 
 public class IdleState extends ATMState {
     private ATM atm;

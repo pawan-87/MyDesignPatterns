@@ -1,4 +1,4 @@
-package StateCode;
+package State;
 
 public class CashWithdrawalState extends ATMState {
 

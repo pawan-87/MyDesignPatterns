@@ -1,4 +1,4 @@
-package StateCode;
+package State;
 
 public abstract class ATMState {
 
